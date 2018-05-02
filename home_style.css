@@ -1,0 +1,66 @@
+ .iconDetails {
+ margin-left:1%;
+float:left;
+}
+.container2 {
+    width:100%;
+    height:auto;
+    padding:1%;
+}
+.nav{
+    background-color: Gray;
+     padding: 15px 10px;
+}
+
+ul {
+        list-style-type: none;
+        padding: 0px;
+        overflow:hidden;
+        background-color: #333;
+        text-align: center;
+}
+         .bg{
+         background-color: white;
+         
+}
+      
+
+li {
+        float: right;
+        text-align:center;
+        background-color: Gray;
+}
+li a {
+        display: inline-block;
+        color: white;
+        text-align: center;
+        padding: 20px 16px;
+        text-decoration: none;
+        font-size: medium;
+
+}
+
+li a:hover {
+        background-color:Gray;
+}
+img
+{
+margin: 0;
+}
+.item{
+    height: 500px;
+    width:1200px;
+}
+li button {
+        display: inline-block;
+        color: black;
+        text-align: center;
+        padding: 20px 16px;
+        text-decoration: none;
+        font-size: medium;
+
+}
+
+li button:hover {
+        background-color:Gray;
+}
